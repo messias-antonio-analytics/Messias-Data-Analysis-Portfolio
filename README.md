@@ -62,7 +62,7 @@ Clone the Repository:
 Bash
 
 
-git clone [Your GitHub Repository URL]
+git clone [https://github.com/messias-antonio-analytics/Messias-Data-Analysis-Portfolio]
 cd health-nutrition-dashboard
 
 
